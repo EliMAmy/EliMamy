@@ -25,13 +25,13 @@ I'm Rocio, a student at Brigham Young University-Idaho interested in Software De
 
 ## Ask Me About
 
-Software development and programming
-Data analysis and data management
-Experimental design
-Mathematics and problem-solving
-Scientific and engineering applications of computing
-Learning new technologies
-Projects I'm currently working on
+Software development and programming,
+Data analysis and data management,
+Experimental design,
+Mathematics and problem-solving,
+Scientific and engineering applications of computing,
+Learning new technologies,
+Projects I'm currently working on.
 
 ## Technologies and Tools
 
